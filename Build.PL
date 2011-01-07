@@ -9,6 +9,8 @@ my $builder = Module::Build->new(
     module_name => 'YYZ',
     license     => 'perl',
 
+    dist_author => 'Michael G Schwern <schwern@pobox.com>',
+
     meta_merge  => {
         resources => {
             bugtracker =>
