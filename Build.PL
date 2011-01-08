@@ -31,6 +31,7 @@ my $builder = Module::Build->new(
     },
 
     requires             => {
+        XXX                 => '0.17',
         perl                => '5.8.1',
     },
 );

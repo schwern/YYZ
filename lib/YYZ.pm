@@ -8,7 +8,7 @@ use XXX;
 use Carp;
 use Exporter qw(import);
 
-our $VERSION = 2112;
+our $VERSION = '2112.1001001';
 our @EXPORT = qw(YYZ);
 
 
